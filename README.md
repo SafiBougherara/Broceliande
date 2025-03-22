@@ -38,3 +38,12 @@ Supprime une annonce de la base de données, ainsi que tous les commentaires ass
 - `get_one_article($id)`: Obtient les détails d'une annonce spécifique par son identifiant.
 - `get_one_article_with_comments($id)`: Obtient une annonce avec ses commentaires associés.
 - `delete_comment($id)`: Supprime un commentaire spécifique de la base de données.
+
+SCREENSHOTS/
+
+![image](https://github.com/user-attachments/assets/1dc343c7-8ec4-495c-8ba9-537e46cef76d)
+![image](https://github.com/user-attachments/assets/4cfbb71b-eb2b-48fb-b1f3-7a2327bf2704)
+![image](https://github.com/user-attachments/assets/af5f902e-36b7-4bf7-bed1-485072523d43)
+![image](https://github.com/user-attachments/assets/d0183de4-6563-4665-a8d3-813dea04ebbc)
+![{BFA4341C-ED99-4450-B482-D8DCCD7F6498}](https://github.com/user-attachments/assets/416eb851-bce3-4e04-b612-7e65714e3001)
+![{567E8F0A-A914-4383-B14B-4938458C7766}](https://github.com/user-attachments/assets/b44a26a9-1b14-4c29-8ce1-021cb25c46fa)
